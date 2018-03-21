@@ -12,7 +12,7 @@ import rosegraphics as rg
 #
 # Your instructor will help you understand the TESTS of the
 #   swap_colors
-# function.  You will implement the   swap_colors  function itself.
+# function.  You will implement the   swap_colors  function itself.    :)
 ########################################################################
 
 
